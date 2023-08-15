@@ -134,7 +134,7 @@ class Road():
         if finished:
             self.reset()
 
-        time.sleep(0.1)
+        #time.sleep(0.1)
 
         return state_to_return, reward, finished
 
