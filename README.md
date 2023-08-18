@@ -1,5 +1,5 @@
 # Bachelor-Thesis
-This repository contains 3 phase of my bachelor thesis project
+This repository contains 3 phases of my bachelor thesis project
 # Road Sign Detection using CNN
 
 ## Contents
@@ -144,7 +144,7 @@ Both lane detection and drivable area detection models are based on the U-Net ar
 6. **Root Update and Animation:**
    - The environment class uses Tkinter to create a visual animation of the car's movement and obstacle positions.
 
-## Advantage Actor-Critic (A2C) Method (Second Code)
+## Advantage Actor-Critic (A2C) Method 
 
 This code implements the Advantage Actor-Critic (A2C) algorithm, combining actor and critic components for reinforcement learning.
 
@@ -164,7 +164,7 @@ This code implements the Advantage Actor-Critic (A2C) algorithm, combining actor
 5. **Training Loop:**
    - The training loop iterates through episodes, interacting with the environment, and updating the policy network.
 
-## SARSA (State-Action-Reward-State-Action) Method (Fifth Code)
+## SARSA (State-Action-Reward-State-Action) Method 
 
 This code demonstrates the SARSA algorithm, an on-policy temporal difference learning algorithm.
 
@@ -181,7 +181,7 @@ This code demonstrates the SARSA algorithm, an on-policy temporal difference lea
 4. **SARSA Update Rule:**
    - The SARSA update rule adjusts Q-values using the observed reward, next state, and next action.
 
-## Proximal Policy Optimization (PPO) Method (Fourth Code)
+## Proximal Policy Optimization (PPO) Method 
 
 This code illustrates the Proximal Policy Optimization (PPO) algorithm, designed for stable policy optimization.
 
